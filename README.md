@@ -1,6 +1,6 @@
 # LEATHER FACE - Cámara IP Scanner
 
-![LEATHER FACE Banner](https://raw.githubusercontent.com/LEATHER-FACE-THO/THO-CAM-HACKER/banner.png)
+![LEATHER FACE Banner](https://github.com/LEATHER-FACE-THO/THO-CAM-HACKER/blob/main/banner.png)
 
 ## 🎥 Descripción
 Herramienta profesional para búsqueda y escaneo de cámaras IP públicas. Permite encontrar y verificar cámaras en diferentes países utilizando múltiples fuentes y métodos de búsqueda.
@@ -75,4 +75,5 @@ Las contribuciones son bienvenidas. Por favor, lee las guías de contribución a
 
 ## 📜 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
 
