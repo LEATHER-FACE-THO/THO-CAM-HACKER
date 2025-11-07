@@ -17,14 +17,11 @@ Herramienta profesional para búsqueda y escaneo de cámaras IP públicas. Permi
 
 ### Windows
 ```bash
-# Clonar el repositorio
 git clone https://github.com/LEATHER-FACE-THO/THO-CAM-HACKER
 cd THO-CAM-HACKER
 
-# Instalar dependencias
 pip install -r requirements.txt
 
-# Ejecutar
 python tho.py
 ```
 
@@ -80,3 +77,4 @@ Las contribuciones son bienvenidas. Por favor, lee las guías de contribución a
 
 ## 📜 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
