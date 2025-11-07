@@ -30,7 +30,7 @@ pkg install python git
 git clone https://github.com/LEATHER-FACE-THO/THO-CAM-HACKER
 cd THO-CAM-HACKER
 pip install -r requirements.txt
-python tho.py
+python3 tho.py
 ```
 
 ### Kali Linux
@@ -75,3 +75,4 @@ Las contribuciones son bienvenidas. Por favor, lee las guías de contribución a
 
 ## 📜 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
