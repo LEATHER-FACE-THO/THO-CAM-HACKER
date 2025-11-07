@@ -170,6 +170,7 @@ def banner():
     ║  Discord  : https://discord.com/invite/Zcq7GD3FFH                          ║
     ║  Instagram: https://www.instagram.com/leather_face_tho                     ║
     ║  GitHub   : https://github.com/LEATHER-FACE-THO                            ║
+    ║  Youtube  : https://www.youtube.com/@TODO-HACK-OFFICIAL                    ║
     ╚════════════════════════════════════════════════════════════════════════════╝{RESET}""")
 
 
